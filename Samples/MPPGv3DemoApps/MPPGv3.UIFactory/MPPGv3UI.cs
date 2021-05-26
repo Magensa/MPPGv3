@@ -1,0 +1,14 @@
+﻿namespace MPPGv3.UIFactory
+{
+    public enum MPPGv3UI
+    {
+        PROCESSCARDSWIPE,
+        PROCESSMANUALENTRY,
+        PROCESSKEYPADENTRY,
+        PROCESSTOKEN,
+        PROCESSREFERENCEID,
+        GETPROCESSORREPORT,
+        PROCESSEMVSRED,
+        PROCESSENCRYPTEDMANUALENTRY
+    }
+}
